@@ -1,4 +1,4 @@
-## Oi! Este é o repositório do Flavio Vicco para guardar alguns testes em ADVPL .
+## Oi! Este é o repositório do Flavio Vicco para alguns testes em ADVPL.
 
 <!--
 **flaviovicco/flaviovicco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
